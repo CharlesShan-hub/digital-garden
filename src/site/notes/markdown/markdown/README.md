@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/markdown/markdown/readme/","contentClasses":".content svg {width: 100%; height: auto;}"}
+{"dg-publish":true,"permalink":"/markdown/markdown/readme/"}
 ---
 
-
+<style>
+.content svg { width: 100px; /* 设置宽度 */ height: auto; /* 设置高度自动 */ }
+</style>
 # Markdown
 
 ## Overview
