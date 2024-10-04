@@ -32,7 +32,7 @@ json 不允许注释，单行多行都不行！
 空格，空行，换行符，制表符都被解释成空白。
 {% endhint %}
 
-<figure>![../../gitbook/assets/image (18).png](/img/user/gitbook/assets/image%20(18).png)()<figcaption></figcaption></figure>
+![gitbook/assets/image (18).png](/img/user/gitbook/assets/image%20(18).png)
 
 ## string：字符串
 
@@ -46,7 +46,7 @@ json 不允许注释，单行多行都不行！
 {'a': 123} 错误，不能用单引号
 ```
 
-<figure>![../../gitbook/assets/image (16).png](/img/user/gitbook/assets/image%20(16).png)()<figcaption></figcaption></figure>
+![gitbook/assets/image (16).png](/img/user/gitbook/assets/image%20(16).png)
 
 ## number：数值
 
@@ -68,7 +68,7 @@ json 不允许注释，单行多行都不行！
 }
 ```
 
-<figure>![../../gitbook/assets/image (17).png](/img/user/gitbook/assets/image%20(17).png)()<figcaption></figcaption></figure>
+![gitbook/assets/image (17).png](/img/user/gitbook/assets/image%20(17).png)
 
 ## value：值
 
@@ -87,7 +87,7 @@ json有六种值：空白，数字，字符串，数组，对象，真，假
 }
 ```
 
-<figure>![../../gitbook/assets/image (19).png](/img/user/gitbook/assets/image%20(19).png)()<figcaption></figcaption></figure>
+![gitbook/assets/image (19).png](/img/user/gitbook/assets/image%20(19).png)
 
 ## object：对象
 
@@ -104,7 +104,7 @@ json有六种值：空白，数字，字符串，数组，对象，真，假
 {1:2} 错误，键须是字符串
 ```
 
-<figure>![../../gitbook/assets/image (21).png](/img/user/gitbook/assets/image%20(21).png)()<figcaption></figcaption></figure>
+![gitbook/assets/image (21).png](/img/user/gitbook/assets/image%20(21).png)
 
 ## array： 数组
 
@@ -112,4 +112,4 @@ json有六种值：空白，数字，字符串，数组，对象，真，假
 可以是空，也可以包含任意个值。
 {% endhint %}
 
-<figure>![../../gitbook/assets/image (20).png](/img/user/gitbook/assets/image%20(20).png)()<figcaption></figcaption></figure>
+![gitbook/assets/image (20).png](/img/user/gitbook/assets/image%20(20).png)

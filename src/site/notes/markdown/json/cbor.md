@@ -14,4 +14,4 @@
 
 简单来看，有点想 IPv4 的那种报文段。就是前边是类型，后边是数据，数据可以扩展长度。
 
-<figure>![../../gitbook/assets/image (3).png](/img/user/gitbook/assets/image%20(3).png)()<figcaption></figcaption></figure>
+![gitbook/assets/image (3).png](/img/user/gitbook/assets/image%20(3).png)
