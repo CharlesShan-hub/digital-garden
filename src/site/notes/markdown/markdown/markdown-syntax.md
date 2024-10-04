@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/markdown/markdown/markdown-syntax/"}
+{"dg-publish":true,"permalink":"/markdown/markdown/markdown-syntax/","contentClasses":".content svg {width: 100%; height: auto;}"}
 ---
 
 
